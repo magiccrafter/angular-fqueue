@@ -1,0 +1,26 @@
+{
+  "name": "angular-fqueue",
+  "version": "1.0.0",
+  "author": "magiccrafter",
+  "description": "Fixed size Array (Fixed Queue) for AngularJS",
+  "keywords": [
+    "angular",
+    "fixed-size",
+    "queue",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magiccrafter/angular-fqueue.git"
+  },
+  "main": [
+    "angular-fqueue.js"
+  ],
+  "ignore": [
+    "package.json",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": ">= 1.0.8"
+  }
+}
